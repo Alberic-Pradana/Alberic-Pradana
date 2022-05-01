@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alberic-Pradana
 - 👀 I’m interested in Non Formal Education & Programming
-- 🌱 I’m currently learning Front End Dev & Bootstrap v5.1
+- 🌱 I’m currently learning programing especially in Front End Dev 
 - 💞️ I’m looking to collaborate on Developing Website or Education Aplication
 - 📫 You can reach me by email at albericpradana@gmail.com
 
